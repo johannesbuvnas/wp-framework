@@ -1,0 +1,7 @@
+require([
+	'framework'
+],
+function(Framework)
+{
+	
+});
